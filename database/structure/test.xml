@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table name="Criminals">
+    <columns>
+        <column systemName="id" displayName="ID"/>
+        <column systemName="firstName" displayName="First Name"/>
+    </columns>
+</table>

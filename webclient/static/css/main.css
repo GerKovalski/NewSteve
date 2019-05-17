@@ -1,0 +1,15 @@
+body {
+    background-color: #333333;
+    font: bold 24px Verdana;
+    color : white;
+    padding: 40px;
+    text-align: center;
+}
+
+#server_response_section {
+    height : 60px;
+    width : 100%;
+    background : white;
+    border: 2px inset darkslateblue;
+    color : #111111;
+}
